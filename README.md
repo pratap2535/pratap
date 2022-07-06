@@ -1,2 +1,3 @@
 # pratap
-hi this is pratap. welcome to githud 
+hi this is pratap. welcome to github profile
+
